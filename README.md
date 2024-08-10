@@ -10,6 +10,6 @@ Meu nome é Letícia Melo
 - Sou comunicativa e organizada
   
   ###
-**Atualmente estou no ensino médio e amo aprender coisas novas**.
+**Amo aprender coisas novas**.
 
 ![]( https://media1.tenor.com/m/nlAcoH84u9EAAAAd/le-sserafim-eunchae.gif) 
