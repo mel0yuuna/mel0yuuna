@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem vindos ao meu perfil 🍼🐝
 
-<!--
-**mel0yuuna/mel0yuuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Letícia Melo
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Amo a área de ciencias biológicas🫀
+- Sou comunicativa e organizada
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  ###
+Atualmente estou no ensino médio e amo aprender coisas novas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![]( https://media1.tenor.com/m/nlAcoH84u9EAAAAd/le-sserafim-eunchae.gif) 
